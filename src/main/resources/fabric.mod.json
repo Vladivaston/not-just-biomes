@@ -6,6 +6,7 @@
 	"description": "A collection of modular enhancements to vanilla biomes and structures!",
 	"authors": [
 		"Apollo"
+                "omoso"
 	],
 	"license": "MIT",
 	"contact": {
@@ -26,8 +27,8 @@
 	"accessWidener": "njb.accesswidener",
 	"mixins": [],
 	"depends": {
-		"fabricloader": ">=0.15.0",
-		"minecraft": ">=1.20.2",
+		"fabricloader": ">=0.15.6",
+		"minecraft": ">=1.20.4",
 		"java": ">=17",
 		"fabric-api": ">=0.90.0"
                 "lithostitched": ">1.1.1"
